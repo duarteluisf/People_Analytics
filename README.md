@@ -14,7 +14,7 @@
 
 ![Alt text](peopleanalytics.jpg)
 
-  A empresa possui 311 funcionários entre ativos e desligados de 2006 a 2018. A média salarial foi de $ 69 mil por ano e o grau de satisfação com a empresa foi de 3,89, considerando que a nota máxima seria 5. As plataformas mais utilizadas para prospecção de funcionários foram o Ideed, Lindekin e Google Search. Contudo, se filtrarmos somente os funcionários desligados, pode-se observar que a maioria foi prospectada por meio do Google Search. 61% dos funcionários prospectados nessa plataforma foram desligados contra 24% do Indeed e 23% do Linkedin.
+  A empresa possui 311 funcionários entre ativos e desligados de 2006 a 2018. A média salarial foi de $ 69 mil por ano e o grau de satisfação com a empresa foi de 3,89, considerando que a nota máxima seria 5. As plataformas mais utilizadas para prospecção de funcionários foram o Ideed, Linkedin e Google Search. Contudo, se filtrarmos somente os funcionários desligados, pode-se observar que a maioria foi prospectada por meio do Google Search. 61% dos funcionários prospectados nessa plataforma foram desligados contra 24% do Indeed e 23% do Linkedin.
   
   Entre todos os funcionários, ativos e desligados, os homens ganham, em média, $ 3 mil a mais por ano do que as mulheres. Se forem considerados somente os ativos, essa diferença cai para $ 1 mil. Apesar disso, verifica-se que o quadro de funcionários é composto por  mais mulheres (176) do que homens (135).
   
