@@ -10,7 +10,7 @@
 * A empresa emprega, na mesma proporção, pessoas brancas e de outras etnias?
 * A empresa está conseguindo reter seus funcionários?
 
-  O banco de dados utilizado foi retirado do site: https://www.kaggle.com/rhuebner/human-resources-data-set. A análise foi feita por meio da ferramenta Power Bi.
+O banco de dados utilizado foi retirado do site: https://www.kaggle.com/rhuebner/human-resources-data-set. A análise foi feita por meio da ferramenta Power Bi.
 
 ![Alt text](peopleanalytics.jpg)
 
